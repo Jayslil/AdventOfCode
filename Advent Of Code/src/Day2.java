@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Day2 {
     public static void main(String[] args) throws FileNotFoundException {
-        Scanner fs = new Scanner(new File("/Users/zahirullahstanekzai/Documents/GitHub/AdventOfCode/Advent Of Code/src/test.txt"));
+        Scanner fs = new Scanner(new File("/Users/zahirullahstanekzai/Documents/GitHub/AdventOfCode/Advent Of Code/src/input.txt"));
 
 /*        int antwoord = 0;
 
